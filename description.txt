@@ -1,0 +1,6 @@
+This is a joke mod.
+
+Upon reaching half health (or 65% health in Expert Mode), the Eye of Cthulhu will spin. And spin. And spin some more.
+The Eye of Cthulhu will never reach phase 2, nor will it progress its AI past spinning.
+
+Have fun!
